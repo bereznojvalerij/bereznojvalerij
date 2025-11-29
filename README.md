@@ -1,5 +1,5 @@
 ## Hi there 👋
-[Элинта](https://bereznojvalerij.github.io/elinta/)]
+[Элинта](https://bereznojvalerij.github.io/elinta/)
 
 <!--
 **bereznojvalerij/bereznojvalerij** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
