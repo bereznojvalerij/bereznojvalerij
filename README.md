@@ -1,4 +1,5 @@
 ## Hi there 👋
+![Uploading Шпаргалка_по_Git.jpg…]()
 
 <!--
 **bereznojvalerij/bereznojvalerij** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
